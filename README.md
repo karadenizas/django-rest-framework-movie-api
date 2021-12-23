@@ -42,7 +42,7 @@ Database PostgreSQL, Authentication JWT ile olusturulmustur. GenericViews veya M
 ![](https://i.imgur.com/qAKgUiT.png)
 
 **Movie Reviews page=3 size=5**
-![](https://imgur.com/a/9mSAUNZ)
+![](https://i.imgur.com/DgEz06c.png)
 
 ***JWT Access***
 ![](https://i.imgur.com/pCS7Cyt.png)
