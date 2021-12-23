@@ -158,11 +158,6 @@ class CommentViewSet(viewsets.ViewSet):
 
     def list(self, request):
         queryset = Comment.objects.all()
-        serializer = CommentSerializer(queryset, many=True)
-        return Response(serializer.data)
-
-    def list(self, request):
-        queryset = Comment.objects.all()
         paginator = MyStandartPagination()
         page = paginator.paginate_queryset(queryset, request)
         if page is not None:
