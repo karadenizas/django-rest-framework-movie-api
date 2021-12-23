@@ -35,3 +35,14 @@ Database PostgreSQL, Authentication JWT ile olusturulmustur. GenericViews veya M
 | type | List Movie      |    Optional (type=series, type=movie, type=game) |
 
 ### Images
+**Search word = "lord of the" , page = 1**
+![](https://i.imgur.com/eITjsKB.png)
+
+**Movie Detail**
+[](https://i.imgur.com/qAKgUiT.png)
+
+**Movie Reviews page=3 size=5**
+[](https://imgur.com/a/9mSAUNZ)
+
+***JWT Access***
+[](https://i.imgur.com/pCS7Cyt.png)
