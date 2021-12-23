@@ -9,7 +9,7 @@ It is an application where users review movies, give ratings, and comments and r
 - The logged in user writes a review about the movie, gives a rating or gives a rating by commenting on the existing reviews and expressing their thoughts about the review.
 - User can do all basic CRUD operations.
 
-Database PostgreSQL is created with Authentication JWT. ViewSet class is used instead of GenericViews or ModelViewSet classes. With this, even though the number of codes is high, the events taking place in the background can be seen more clearly and can be controlled more. It can of course be written in a shorter way using Generic Views and ModelViewSet.
+Created with, database PostgreSQL, authentication JWT. ViewSet class is used instead of GenericViews or ModelViewSet classes. With this, even though the number of codes is high, the events taking place in the background can be seen more clearly and can be controlled more. It can of course be written in a shorter way using Generic Views and ModelViewSet.
 
 ### Endpoints
 
