@@ -23,4 +23,15 @@ Database PostgreSQL, Authentication JWT ile olusturulmustur. GenericViews veya M
 | /api/reviews/ | GET-POST      |    List and Create Review  |
 | /api/reviews/{review_id}/ | GET-PUT-PATCH-DELETE      |    Review Details, Update or Delete  |
 | /api/reviews/{review_id}/comments/ | GET      |    Review Comments  |
-| /api/comments/ | GET      |    List Comments  |
+| /api/comments/ | GET-POST      |    List and Create Comments  |
+| /api/comments/{comment_id} | GET-PUT-PATCH-DELETE      |    Comment Details, Update or Delete  |
+
+### Params
+
+| Params        | Action           | Required  |
+| ------------- |:-------------:| -----:|
+| page      | List Movie, Movie Reviews, List Reviews, Review Comments, List Comments | Optional |
+| size      | List Movie, Movie Reviews, List Reviews, Review Comments, List Comments      |   Optional |
+| type | List Movie      |    Optional (type=series, type=movie, type=game) |
+
+### Images
