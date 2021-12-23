@@ -39,10 +39,10 @@ Database PostgreSQL, Authentication JWT ile olusturulmustur. GenericViews veya M
 ![](https://i.imgur.com/eITjsKB.png)
 
 **Movie Detail**
-[](https://i.imgur.com/qAKgUiT.png)
+![](https://i.imgur.com/qAKgUiT.png)
 
 **Movie Reviews page=3 size=5**
-[](https://imgur.com/a/9mSAUNZ)
+![](https://imgur.com/a/9mSAUNZ)
 
 ***JWT Access***
-[](https://i.imgur.com/pCS7Cyt.png)
+![](https://i.imgur.com/pCS7Cyt.png)
